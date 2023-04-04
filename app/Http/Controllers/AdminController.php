@@ -15,6 +15,7 @@ class AdminController extends Controller
     {
         //
         echo "I am admin controller";
+        echo "Use of stash command";
     }
 
     /**
